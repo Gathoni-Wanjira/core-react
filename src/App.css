@@ -1,6 +1,8 @@
 .app {
-  height: 100vh;
+  min-height: 100vh;
   background: rgb(125, 212, 241);
+  display: flex; 
+  align-items: center;
 }
 
 /* Tweet component */
@@ -14,4 +16,9 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  margin-right: 20px;
+  margin-left: 35px;
+  
+  
 }
+

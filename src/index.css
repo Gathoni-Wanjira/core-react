@@ -1,3 +1,4 @@
+/* You use index.css to style the whole ui while you use app.css to style only the working/needed ui. */
 *{
   margin: 0;
   padding: 0;
